@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T09:40:57.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="4g1jsnJfOLixLwHZ5ORG" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T09:45:19.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ROkxN_OkcIPkHWoXpxQs" version="14.9.5" type="github">
   <diagram id="SJGPeemRXHp4dxk_nkfU" name="第1頁">
     <mxGraphModel dx="3450" dy="3404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -611,6 +611,9 @@
         <mxCell id="pClytDhcYSaPeiwyFxRQ-8" value="簡訊/信箱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="pClytDhcYSaPeiwyFxRQ-6">
           <mxGeometry x="10" y="19.29" width="140" height="12.57" as="geometry" />
         </mxCell>
+        <mxCell id="pClytDhcYSaPeiwyFxRQ-17" value="發信箱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pClytDhcYSaPeiwyFxRQ-6">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="pClytDhcYSaPeiwyFxRQ-13" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="191.6" width="110.5" height="130" as="geometry" />
         </mxCell>
@@ -619,6 +622,12 @@
             <mxPoint x="34.92858513189475" y="395" as="sourcePoint" />
             <mxPoint x="70.00052757793782" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pClytDhcYSaPeiwyFxRQ-16" value="發簡訊" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pClytDhcYSaPeiwyFxRQ-18" value="紀錄查詢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
