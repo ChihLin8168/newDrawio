@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T10:24:18.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="wZoPbYOnwh1xJFJZAav2" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T10:25:48.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="leGNPL-d9bczADjHju_p" version="14.9.5" type="github">
   <diagram id="SJGPeemRXHp4dxk_nkfU" name="第1頁">
-    <mxGraphModel dx="3899" dy="3671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4647" dy="4115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
         <mxCell id="bLUmJ-rgid1CxlxQpGvQ-12" value="APP管理系統" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;strokeWidth=2;" parent="bLUmJ-rgid1CxlxQpGvQ-8" vertex="1">
           <mxGeometry x="5" y="113.59999999999991" width="150" height="46.4" as="geometry" />
         </mxCell>
-        <mxCell id="bLUmJ-rgid1CxlxQpGvQ-26" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;" parent="1" source="k3EfGpvTS4f7lztcN1DA-5" target="bLUmJ-rgid1CxlxQpGvQ-1" edge="1">
+        <mxCell id="bLUmJ-rgid1CxlxQpGvQ-26" value="" style="endArrow=classic;startArrow=none;html=1;strokeWidth=2;endFill=1;startFill=0;" parent="1" source="k3EfGpvTS4f7lztcN1DA-5" target="bLUmJ-rgid1CxlxQpGvQ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-100" y="-80" as="sourcePoint" />
             <mxPoint x="-50" y="-130" as="targetPoint" />
@@ -258,7 +258,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8eF-4W1-Dew91Le5EHnY-242" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=20;startArrow=classic;startFill=1;startSize=6;strokeWidth=2;" edge="1" parent="1" source="Q3X7JTxSb5pfpih5gJmq-95" target="8eF-4W1-Dew91Le5EHnY-239">
+        <mxCell id="8eF-4W1-Dew91Le5EHnY-242" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=20;startArrow=classic;startFill=1;startSize=6;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="Q3X7JTxSb5pfpih5gJmq-95" target="8eF-4W1-Dew91Le5EHnY-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q3X7JTxSb5pfpih5gJmq-95" value="UB信用卡支付" style="swimlane;rounded=0;shadow=0;glass=0;sketch=0;startSize=50;strokeColor=#9673a6;strokeWidth=4;fillColor=#FFC7DA;gradientDirection=south;perimeterSpacing=1;swimlaneFillColor=#DEF7FF;fontSize=22;fontStyle=1;gradientColor=#FFFFFF;" parent="1" vertex="1">
@@ -290,7 +290,7 @@
         <mxCell id="bLUmJ-rgid1CxlxQpGvQ-53" value="PaymentService" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fontSize=20;strokeWidth=2;" parent="Q3X7JTxSb5pfpih5gJmq-95" vertex="1">
           <mxGeometry x="212.1200000000001" y="90" width="110.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8eF-4W1-Dew91Le5EHnY-243" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=20;startArrow=classic;startFill=1;startSize=6;strokeWidth=2;" edge="1" parent="1" source="Q3X7JTxSb5pfpih5gJmq-105" target="8eF-4W1-Dew91Le5EHnY-239">
+        <mxCell id="8eF-4W1-Dew91Le5EHnY-243" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=20;startArrow=classic;startFill=1;startSize=6;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="Q3X7JTxSb5pfpih5gJmq-105" target="8eF-4W1-Dew91Le5EHnY-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q3X7JTxSb5pfpih5gJmq-105" value="一卡通電子支付" style="swimlane;rounded=0;shadow=0;glass=0;sketch=0;startSize=50;strokeColor=#9673a6;strokeWidth=4;fillColor=#FFC7DA;gradientDirection=south;perimeterSpacing=1;swimlaneFillColor=#FEFFE6;fontSize=22;fontStyle=1;gradientColor=#FFFFFF;" parent="1" vertex="1">
@@ -825,7 +825,7 @@
             <mxPoint x="690" y="-250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8eF-4W1-Dew91Le5EHnY-246" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=20;startArrow=classic;startFill=1;startSize=6;strokeWidth=2;" edge="1" parent="1" source="x_JbOlr38HWDlTl8YInY-18" target="8eF-4W1-Dew91Le5EHnY-239">
+        <mxCell id="8eF-4W1-Dew91Le5EHnY-246" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=20;startArrow=none;startFill=0;startSize=6;strokeWidth=2;" edge="1" parent="1" source="x_JbOlr38HWDlTl8YInY-18" target="8eF-4W1-Dew91Le5EHnY-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
