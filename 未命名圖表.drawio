@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T08:53:16.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ZgRX8suNgawvgwie8i17" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T09:19:09.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="94yDjr8NhQ40sFb9VOXy" version="15.3.5" type="github">
   <diagram id="JlRprO2Ssy-YGIe1HLhW" name="第1頁">
-    <mxGraphModel dx="3151" dy="3215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5246" dy="4442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1298,7 +1298,7 @@
           <mxGeometry x="872.53" y="-932.5" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-71" value="&lt;div&gt;&lt;span&gt;&amp;nbsp; 繳款截止日&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 2021/10/31&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#000000;fillColor=#BFBFBF;arcSize=50;align=left;" parent="1" vertex="1">
-          <mxGeometry x="852.53" y="-847.5" width="165" height="35" as="geometry" />
+          <mxGeometry x="852.53" y="-840" width="165" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-72" value="&lt;div&gt;&lt;span&gt;&amp;nbsp; 帳單結帳日&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 2021/10/31&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#000000;fillColor=#FFFFFF;arcSize=50;align=left;" parent="1" vertex="1">
           <mxGeometry x="852.53" y="-885" width="165" height="35" as="geometry" />
