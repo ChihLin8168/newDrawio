@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T08:46:18.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="FAlK1DPPHZQu9nYdaCSm" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T08:00:02.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="xsFs5gtj5ACFSdxl84oo" version="15.5.2" type="github">
   <diagram id="JlRprO2Ssy-YGIe1HLhW" name="第1頁">
-    <mxGraphModel dx="5230" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5888" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -971,7 +971,7 @@
           <mxGeometry x="7" y="5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GpeOQiLwWyaZaKaAm6Ce-74" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-360" y="-225" width="201" height="460" as="geometry" />
+          <mxGeometry x="-360" y="-229" width="201" height="460" as="geometry" />
         </mxCell>
         <mxCell id="GpeOQiLwWyaZaKaAm6Ce-119" value="" style="group" parent="GpeOQiLwWyaZaKaAm6Ce-74" vertex="1" connectable="0">
           <mxGeometry width="200" height="336.5" as="geometry" />
@@ -1229,34 +1229,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-66" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="-2964" y="370" width="190" height="330" as="geometry" />
+          <mxGeometry x="-2860" width="190" height="330" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-67" value="&lt;font style=&quot;font-size: 15px&quot;&gt;本期帳單&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2903.9700000000003" y="380" width="80" height="20" as="geometry" />
+          <mxGeometry x="-2799.9700000000003" y="10" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-68" value="本次付款總金額" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2946.4700000000003" y="410" width="100" height="20" as="geometry" />
+          <mxGeometry x="-2842.4700000000003" y="40" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-69" value="&lt;u&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3900元&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2951.4700000000003" y="437.5" width="170" height="20" as="geometry" />
+          <mxGeometry x="-2847.4700000000003" y="67.5" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-87" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeColor=#FF0000;strokeWidth=2;" parent="1" source="LvOSG-9YFsCtB4bnHPu5-70" target="LvOSG-9YFsCtB4bnHPu5-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-70" value="前往付款" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;rounded=1;glass=0;sketch=0;strokeColor=default;strokeWidth=1;fillColor=default;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="-2931.4700000000003" y="467.5" width="125" height="40" as="geometry" />
+          <mxGeometry x="-2827.4700000000003" y="97.5" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-71" value="&lt;div&gt;&lt;span&gt;&amp;nbsp; 繳款截止日&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 2021/10/31&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#000000;fillColor=#BFBFBF;arcSize=50;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-2951.4700000000003" y="560" width="165" height="35" as="geometry" />
+          <mxGeometry x="-2847.4700000000003" y="190" width="165" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-72" value="&lt;div&gt;&lt;span&gt;&amp;nbsp; 帳單結帳日&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 2021/10/31&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#000000;fillColor=#FFFFFF;arcSize=50;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-2951.4700000000003" y="515" width="165" height="35" as="geometry" />
+          <mxGeometry x="-2847.4700000000003" y="145" width="165" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-73" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="-2699" y="370" width="190" height="374" as="geometry" />
+          <mxGeometry x="-2595" width="190" height="374" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-74" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="-2689" y="384" width="170" height="290.77008547008546" as="geometry" />
+          <mxGeometry x="-2585" y="14" width="170" height="290.77008547008546" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-75" value="轉帳日期&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2021/09/28" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="LvOSG-9YFsCtB4bnHPu5-74" vertex="1">
           <mxGeometry width="170" height="30" relative="1" as="geometry" />
@@ -1290,10 +1290,10 @@
           <mxGeometry y="257.308547008547" width="170" height="33.46153846153847" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-86" value="&lt;font color=&quot;#ff0000&quot;&gt;付款成功會發送OTP成功訊息&lt;br&gt;至用戶手機&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2689" y="694" width="170" height="30" as="geometry" />
+          <mxGeometry x="-2585" y="324" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-88" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2951.4710678118654" y="380" width="55.07106781186553" height="20" as="geometry" />
+          <mxGeometry x="-2847.4710678118654" y="10" width="55.07106781186553" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LvOSG-9YFsCtB4bnHPu5-89" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;rounded=1;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;rotation=-225;" parent="LvOSG-9YFsCtB4bnHPu5-88" vertex="1">
           <mxGeometry x="2.0710678118655323" y="5" width="10" height="10" as="geometry" />
@@ -2820,7 +2820,7 @@
         <mxCell id="2hOMtbbconLr2ZWUS8vr-113" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeColor=#FF0000;strokeWidth=2;" parent="1" source="2hOMtbbconLr2ZWUS8vr-89" target="LvOSG-9YFsCtB4bnHPu5-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2hOMtbbconLr2ZWUS8vr-89" value="查詢未入帳分期交易" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFEBF0;align=left;" parent="1" vertex="1">
+        <mxCell id="2hOMtbbconLr2ZWUS8vr-89" value="查詢分期未入帳交易" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFEBF0;align=left;" parent="1" vertex="1">
           <mxGeometry x="-3630" y="1005" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2hOMtbbconLr2ZWUS8vr-107" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -2855,7 +2855,7 @@
             <mxRectangle x="-3450" y="1109" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hOMtbbconLr2ZWUS8vr-104" value="10/01   (分期)茶室消費  $1003元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" parent="2hOMtbbconLr2ZWUS8vr-98" vertex="1">
+        <mxCell id="2hOMtbbconLr2ZWUS8vr-104" value="10/01   (分期)01/06 茶室消費  $1003元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" parent="2hOMtbbconLr2ZWUS8vr-98" vertex="1">
           <mxGeometry y="30" width="160" height="31.260504201680675" as="geometry" />
         </mxCell>
         <mxCell id="2hOMtbbconLr2ZWUS8vr-99" value="10/01   (分期)手續費  $100元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" parent="2hOMtbbconLr2ZWUS8vr-98" vertex="1">
@@ -2864,7 +2864,7 @@
         <mxCell id="2hOMtbbconLr2ZWUS8vr-101" value="10/05 (退貨)xxx商品   $-300" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" parent="2hOMtbbconLr2ZWUS8vr-98" vertex="1">
           <mxGeometry y="92.52100840336135" width="160" height="31.260504201680675" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="2hOMtbbconLr2ZWUS8vr-110" target="be4QzpV3kWNhWkOtdzNT-1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" source="2hOMtbbconLr2ZWUS8vr-110" target="be4QzpV3kWNhWkOtdzNT-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hOMtbbconLr2ZWUS8vr-110" value="前往繳款" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#D4B8FF;align=left;" parent="1" vertex="1">
@@ -2873,28 +2873,28 @@
         <mxCell id="2hOMtbbconLr2ZWUS8vr-111" value="預設最近一期帳單" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;strokeColor=#FF0000;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="-3820" y="927.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-3390" y="1195" width="190" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-3" value="ATM 虛擬帳號繳款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-3" value="ATM 虛擬帳號繳款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3355" y="1211" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-4" value="銀行別+使用內別D類帳號" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3370" y="1246" width="150" height="20" as="geometry" />
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-4" value="銀行別+使用D類帳號" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-3360" y="1246" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-5" value="XXXXXXXXXXXXXXXX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-5" value="XXXXXXXXXXXXXXXX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3365" y="1276" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-7" value="繳款金額 : $823元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-7" value="繳款金額 : $823元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3364" y="1306" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/barcode-128.png" vertex="1" parent="1">
-          <mxGeometry x="-3355" y="1332" width="58" height="58" as="geometry" />
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/barcode-128.png" parent="1" vertex="1">
+          <mxGeometry x="-3355" y="1370" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/barcode-128.png" vertex="1" parent="1">
-          <mxGeometry x="-3355" y="1386" width="74" height="74" as="geometry" />
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/barcode-128.png" parent="1" vertex="1">
+          <mxGeometry x="-3355" y="1424" width="74" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="2hOMtbbconLr2ZWUS8vr-2" target="be4QzpV3kWNhWkOtdzNT-1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" source="2hOMtbbconLr2ZWUS8vr-2" target="be4QzpV3kWNhWkOtdzNT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-3010" y="969" />
@@ -2902,64 +2902,67 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-18" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-18" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-3644" y="1320" width="202" height="298" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBF0;align=left;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEBF0;align=left;" parent="be4QzpV3kWNhWkOtdzNT-18" vertex="1">
           <mxGeometry x="2.5" width="175" height="248.00000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-20" value="2021年10月帳單" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-20" value="2021年10月帳單" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="be4QzpV3kWNhWkOtdzNT-18" vertex="1">
           <mxGeometry x="1.25" y="3.1260504201680677" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-21" value="結帳日: 10月15日" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-21" value="結帳日: 10月15日" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="be4QzpV3kWNhWkOtdzNT-18" vertex="1">
           <mxGeometry x="1.25" y="23.96638655462185" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-22" value="繳款期限:10月30日" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-22" value="繳款期限:10月30日" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="be4QzpV3kWNhWkOtdzNT-18" vertex="1">
           <mxGeometry y="39.596638655462186" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-23" value="應繳總金額 $823元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-23" value="應繳總金額 $823元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="be4QzpV3kWNhWkOtdzNT-18" vertex="1">
           <mxGeometry y="60.43697478991597" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-24" value="消費明細" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-24" value="消費明細" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="be4QzpV3kWNhWkOtdzNT-18" vertex="1">
           <mxGeometry x="5" y="87.52941176470588" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-25" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-25" value="" style="endArrow=none;html=1;strokeColor=#000000;" parent="be4QzpV3kWNhWkOtdzNT-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="7.5" y="87.52941176470588" as="sourcePoint" />
             <mxPoint x="165" y="87.52941176470588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-26" value="消費明細" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#D4B8FF;align=left;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-18">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-26" value="消費明細" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#D4B8FF;align=left;" parent="be4QzpV3kWNhWkOtdzNT-18" vertex="1">
           <mxGeometry x="10" y="112.53781512605043" width="160" height="123.78151260504202" as="geometry">
             <mxRectangle x="-3450" y="1109" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-27" value="10/01   (分期)茶室消費  $1003元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-26">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-27" value="10/01   (分期)茶室消費  $1003元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" parent="be4QzpV3kWNhWkOtdzNT-26" vertex="1">
           <mxGeometry y="30" width="160" height="31.260504201680675" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-28" value="10/01   (分期)手續費  $100元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-26">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-28" value="10/01   (分期)手續費  $100元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" parent="be4QzpV3kWNhWkOtdzNT-26" vertex="1">
           <mxGeometry y="61.260504201680675" width="160" height="31.260504201680675" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-29" value="10/05 (退貨)xxx商品   $-300" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-26">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-29" value="10/05 (退貨)xxx商品   $-300" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=9;" parent="be4QzpV3kWNhWkOtdzNT-26" vertex="1">
           <mxGeometry y="92.52100840336135" width="160" height="31.260504201680675" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-41" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-41" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-3567" y="1467" width="98" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/developerkit/png/Seal.png" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-41">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/developerkit/png/Seal.png" parent="be4QzpV3kWNhWkOtdzNT-41" vertex="1">
           <mxGeometry width="98" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-38" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#ff0000&quot;&gt;繳款&lt;br&gt;成功&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="be4QzpV3kWNhWkOtdzNT-41">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-38" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#ff0000&quot;&gt;繳款&lt;br&gt;成功&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="be4QzpV3kWNhWkOtdzNT-41" vertex="1">
           <mxGeometry x="14.003125" y="29.00125" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-45" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-45" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-2016" y="760" width="190" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="2hOMtbbconLr2ZWUS8vr-53" target="be4QzpV3kWNhWkOtdzNT-45">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" source="2hOMtbbconLr2ZWUS8vr-53" target="be4QzpV3kWNhWkOtdzNT-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="be4QzpV3kWNhWkOtdzNT-47" value="&lt;font style=&quot;font-size: 23px&quot;&gt;完成分期&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="be4QzpV3kWNhWkOtdzNT-47" value="&lt;font style=&quot;font-size: 23px&quot;&gt;完成分期&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1976" y="895" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lzulV0YrZ1ruodvYKbu6-1" value="代收機構條碼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3344" y="1341" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
