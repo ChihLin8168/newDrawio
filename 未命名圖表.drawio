@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T07:07:06.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="EpKCj0ZG8YHmzrgcvZJl" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T02:14:16.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Kd7ETucEJG8EtYYuKWM8" version="15.6.8" type="github">
   <diagram id="JlRprO2Ssy-YGIe1HLhW" name="第1頁">
-    <mxGraphModel dx="5625" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7690" dy="2944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,7 +427,7 @@
         <mxCell id="u8Vwr3oWMw0FIoDEUqdO-38" value="綁定Device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="u8Vwr3oWMw0FIoDEUqdO-71" vertex="1">
           <mxGeometry x="-2.469999999999999" y="340" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="u8Vwr3oWMw0FIoDEUqdO-206" value="OPT PW : xxxxx" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;fontColor=none;strokeColor=#FF0000;strokeWidth=2;fillColor=default;verticalAlign=top;arcSize=50;fontStyle=1;gradientColor=#ffffff;" parent="u8Vwr3oWMw0FIoDEUqdO-71" vertex="1">
+        <mxCell id="u8Vwr3oWMw0FIoDEUqdO-206" value="OPT PW : xxxxx" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeWidth=2;verticalAlign=top;arcSize=50;fontStyle=1;" parent="u8Vwr3oWMw0FIoDEUqdO-71" vertex="1">
           <mxGeometry x="30" y="23" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="-QJP1meMRNjmSo34k42h-11" value="&lt;span style=&quot;font-size: 16px&quot;&gt;email OTP&lt;/span&gt;" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;" parent="u8Vwr3oWMw0FIoDEUqdO-71" edge="1">
@@ -556,8 +556,8 @@
         <mxCell id="u8Vwr3oWMw0FIoDEUqdO-111" value="開始使用APP" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;rounded=1;glass=0;sketch=0;strokeColor=default;strokeWidth=1;fillColor=default;gradientDirection=south;" parent="u8Vwr3oWMw0FIoDEUqdO-105" vertex="1">
           <mxGeometry x="25" y="250" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u8Vwr3oWMw0FIoDEUqdO-117" value="" style="group;shadow=0;sketch=0;fillColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1450" y="-270" width="200" height="400" as="geometry" />
+        <mxCell id="u8Vwr3oWMw0FIoDEUqdO-117" value="" style="group;shadow=0;sketch=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1530" y="-270" width="200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="u8Vwr3oWMw0FIoDEUqdO-114" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fontColor=#000000;fillColor=default;gradientColor=#ffffff;" parent="u8Vwr3oWMw0FIoDEUqdO-117" vertex="1">
           <mxGeometry width="200" height="400" as="geometry" />
@@ -1967,7 +1967,7 @@
           <mxGeometry x="-1389.03" y="1956.06" width="199.03" height="240" as="geometry" />
         </mxCell>
         <mxCell id="63IpMzEPZCVTijKu8bmF-83" value="日期，時間&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;金額&lt;br&gt;商店名稱&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 支付方式" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="-1389.03" y="1956.06" width="199.03" height="63.94" as="geometry" />
+          <mxGeometry x="-1389" y="1956.0599999999997" width="199.03" height="63.94" as="geometry" />
         </mxCell>
         <mxCell id="63IpMzEPZCVTijKu8bmF-84" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;....." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="1" vertex="1">
           <mxGeometry x="-1389.03" y="2140" width="199.03" height="56.06" as="geometry">
