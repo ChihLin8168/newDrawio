@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T10:31:31.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bTrX7S99tW9U327jD1Bh" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T10:34:14.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Aqk26ra6tahed4GGnsSZ" version="16.1.0" type="github">
   <diagram id="X_YsHXB3vTGY_uXjafgQ" name="第1頁">
-    <mxGraphModel dx="5076" dy="3823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4557" dy="3526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,7 +498,7 @@
         <mxCell id="HavgDcFnVHiz-q8iYQLe-73" value="DataBase Server" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_server_blue;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry y="644.5" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="HavgDcFnVHiz-q8iYQLe-74" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#00CC00;strokeWidth=3;fillColor=#CC0066;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-56">
+        <mxCell id="HavgDcFnVHiz-q8iYQLe-74" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#00CC00;strokeWidth=3;fillColor=#CC0066;startFill=0;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-56">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-200" y="359.99999999999955" as="sourcePoint" />
             <mxPoint x="-10" y="377" as="targetPoint" />
@@ -523,9 +523,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HavgDcFnVHiz-q8iYQLe-79" value="iPASS PAY&lt;br style=&quot;font-size: 20px;&quot;&gt;(使用者端)" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1299.9999999999998" y="860" width="72" height="120" as="geometry" />
+          <mxGeometry x="-1213.2499999999998" y="800" width="72" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HavgDcFnVHiz-q8iYQLe-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#3333FF;strokeWidth=3;fillColor=#CC0066;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-79" target="HavgDcFnVHiz-q8iYQLe-67">
+        <mxCell id="HavgDcFnVHiz-q8iYQLe-82" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#3333FF;strokeWidth=3;fillColor=#CC0066;startFill=0;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-79" target="HavgDcFnVHiz-q8iYQLe-67">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-695.5" y="609.8394941634238" as="sourcePoint" />
             <mxPoint x="-296.25" y="675.8633268482486" as="targetPoint" />
@@ -549,7 +549,7 @@
         <mxCell id="HavgDcFnVHiz-q8iYQLe-89" value="商店帳務&lt;br&gt;管理系統" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;strokeWidth=2;" vertex="1" parent="HavgDcFnVHiz-q8iYQLe-85">
           <mxGeometry x="5" y="113.59999999999991" width="150" height="46.4" as="geometry" />
         </mxCell>
-        <mxCell id="HavgDcFnVHiz-q8iYQLe-90" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#00CC00;strokeWidth=3;fillColor=#CC0066;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-87" target="HavgDcFnVHiz-q8iYQLe-65">
+        <mxCell id="HavgDcFnVHiz-q8iYQLe-90" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#00CC00;strokeWidth=3;fillColor=#CC0066;startFill=0;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-87" target="HavgDcFnVHiz-q8iYQLe-65">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-1060" y="360" as="sourcePoint" />
             <mxPoint x="-661.9999999999995" y="360" as="targetPoint" />
@@ -567,7 +567,7 @@
             <mxPoint x="-310" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HavgDcFnVHiz-q8iYQLe-93" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#FF0000;strokeWidth=3;fillColor=#CC0066;" edge="1" parent="1">
+        <mxCell id="HavgDcFnVHiz-q8iYQLe-93" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#FF0000;strokeWidth=3;fillColor=#CC0066;startFill=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-170" y="401" as="sourcePoint" />
             <mxPoint x="-10" y="401" as="targetPoint" />
@@ -588,7 +588,7 @@
         <mxCell id="HavgDcFnVHiz-q8iYQLe-98" value="APP管理系統" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;strokeWidth=2;" vertex="1" parent="HavgDcFnVHiz-q8iYQLe-94">
           <mxGeometry x="5" y="113.59999999999991" width="150" height="46.4" as="geometry" />
         </mxCell>
-        <mxCell id="HavgDcFnVHiz-q8iYQLe-99" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#3333FF;strokeWidth=3;fillColor=#CC0066;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-96" target="HavgDcFnVHiz-q8iYQLe-67">
+        <mxCell id="HavgDcFnVHiz-q8iYQLe-99" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#3333FF;strokeWidth=3;fillColor=#CC0066;startFill=0;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-96" target="HavgDcFnVHiz-q8iYQLe-67">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-1098.12" y="598.6603228910512" as="sourcePoint" />
             <mxPoint x="-819.5" y="665.6864107772903" as="targetPoint" />
@@ -640,19 +640,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HavgDcFnVHiz-q8iYQLe-118" value="POS設備" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POS.svg;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1155.37" y="810" width="141.25" height="150" as="geometry" />
+          <mxGeometry x="-1141.25" y="910" width="141.25" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HavgDcFnVHiz-q8iYQLe-119" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#3333FF;strokeWidth=3;fillColor=#CC0066;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-118" target="HavgDcFnVHiz-q8iYQLe-67">
+        <mxCell id="HavgDcFnVHiz-q8iYQLe-119" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Helvetica;fontSize=20;fontColor=#000000;strokeColor=#3333FF;strokeWidth=3;fillColor=#CC0066;startFill=0;" edge="1" parent="1" source="HavgDcFnVHiz-q8iYQLe-118" target="HavgDcFnVHiz-q8iYQLe-67">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-1035.957646176911" y="890" as="sourcePoint" />
             <mxPoint x="-814.5" y="724.4728953634958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HavgDcFnVHiz-q8iYQLe-122" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-808" y="1091.8" width="110.5" height="130" as="geometry" />
+          <mxGeometry x="-808" y="1131.8" width="110.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HavgDcFnVHiz-q8iYQLe-123" value="&#xa;&#xa;" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1160" y="1100" width="160" height="159.99999999999991" as="geometry" />
+          <mxGeometry x="-1160" y="1140" width="160" height="159.99999999999991" as="geometry" />
         </mxCell>
         <mxCell id="HavgDcFnVHiz-q8iYQLe-124" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="HavgDcFnVHiz-q8iYQLe-123">
           <mxGeometry width="160" height="113.59999999999991" as="geometry" />
